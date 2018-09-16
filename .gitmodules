@@ -1,3 +1,6 @@
 [submodule "qt5"]
 	path = qt5
 	url = https://github.com/unseon/qt5.git
+[submodule "LeviPoc"]
+	path = LeviPoc
+	url = https://github.com/unseon/LeviPoc.git
